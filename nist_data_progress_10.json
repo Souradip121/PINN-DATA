@@ -1,0 +1,62 @@
+{
+  "H2O": {
+    "formula": "H2O",
+    "compound_id": "C7732185",
+    "phase_change_data": {},
+    "thermodynamic_data": null
+  },
+  "CO2": {
+    "formula": "CO2",
+    "compound_id": "C124389",
+    "phase_change_data": {},
+    "thermodynamic_data": null
+  },
+  "CH4": {
+    "formula": "CH4",
+    "compound_id": "C74828",
+    "phase_change_data": {},
+    "thermodynamic_data": null
+  },
+  "NH3": {
+    "formula": "NH3",
+    "compound_id": "C7664417",
+    "phase_change_data": {},
+    "thermodynamic_data": null
+  },
+  "C2H5OH": {
+    "formula": "C2H5OH",
+    "compound_id": "C64175",
+    "phase_change_data": {},
+    "thermodynamic_data": null
+  },
+  "N2": {
+    "formula": "N2",
+    "compound_id": "C7727379",
+    "phase_change_data": {},
+    "thermodynamic_data": null
+  },
+  "O2": {
+    "formula": "O2",
+    "compound_id": "C7782447",
+    "phase_change_data": {},
+    "thermodynamic_data": null
+  },
+  "C6H6": {
+    "formula": "C6H6",
+    "compound_id": "C71432",
+    "phase_change_data": {},
+    "thermodynamic_data": null
+  },
+  "C8H18": {
+    "formula": "C8H18",
+    "compound_id": "C540841",
+    "phase_change_data": {},
+    "thermodynamic_data": null
+  },
+  "NaCl": {
+    "formula": "NaCl",
+    "compound_id": "C7647145",
+    "phase_change_data": {},
+    "thermodynamic_data": null
+  }
+}

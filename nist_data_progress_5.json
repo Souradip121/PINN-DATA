@@ -1,0 +1,32 @@
+{
+  "H2O": {
+    "formula": "H2O",
+    "compound_id": "C7732185",
+    "phase_change_data": {},
+    "thermodynamic_data": null
+  },
+  "CO2": {
+    "formula": "CO2",
+    "compound_id": "C124389",
+    "phase_change_data": {},
+    "thermodynamic_data": null
+  },
+  "CH4": {
+    "formula": "CH4",
+    "compound_id": "C74828",
+    "phase_change_data": {},
+    "thermodynamic_data": null
+  },
+  "NH3": {
+    "formula": "NH3",
+    "compound_id": "C7664417",
+    "phase_change_data": {},
+    "thermodynamic_data": null
+  },
+  "C2H5OH": {
+    "formula": "C2H5OH",
+    "compound_id": "C64175",
+    "phase_change_data": {},
+    "thermodynamic_data": null
+  }
+}

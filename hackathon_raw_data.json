@@ -1,0 +1,471 @@
+{
+  "H2O": {
+    "formula": "H2O",
+    "compound_id": "C7732185",
+    "phase_change_data": {},
+    "thermodynamic_data": [
+      {
+        "temperature": 223.3967,
+        "heat_capacity": 219.7809,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1998.0,
+        "heat_capacity": 1998.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1979.0,
+        "heat_capacity": 1979.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      }
+    ]
+  },
+  "CO2": {
+    "formula": "CO2",
+    "compound_id": "C124389",
+    "phase_change_data": {},
+    "thermodynamic_data": [
+      {
+        "temperature": 55.18696,
+        "heat_capacity": 2.720074,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 228.2431,
+        "heat_capacity": 263.6125,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1998.0,
+        "heat_capacity": 1998.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1965.0,
+        "heat_capacity": 1965.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      }
+    ]
+  },
+  "carbon dioxide": {
+    "formula": "carbon dioxide",
+    "compound_id": "C124389",
+    "phase_change_data": {},
+    "thermodynamic_data": [
+      {
+        "temperature": 55.18696,
+        "heat_capacity": 2.720074,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 228.2431,
+        "heat_capacity": 263.6125,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1998.0,
+        "heat_capacity": 1998.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1965.0,
+        "heat_capacity": 1965.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      }
+    ]
+  },
+  "CH4": {
+    "formula": "CH4",
+    "compound_id": "C74828",
+    "phase_change_data": {},
+    "thermodynamic_data": [
+      {
+        "temperature": 108.4773,
+        "heat_capacity": 11.26467,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 158.7163,
+        "heat_capacity": 224.4143,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1998.0,
+        "heat_capacity": 1998.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1961.0,
+        "heat_capacity": 1961.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      }
+    ]
+  },
+  "methane": {
+    "formula": "methane",
+    "compound_id": "C74828",
+    "phase_change_data": {},
+    "thermodynamic_data": [
+      {
+        "temperature": 108.4773,
+        "heat_capacity": 11.26467,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 158.7163,
+        "heat_capacity": 224.4143,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1998.0,
+        "heat_capacity": 1998.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1961.0,
+        "heat_capacity": 1961.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      }
+    ]
+  },
+  "NH3": {
+    "formula": "NH3",
+    "compound_id": "C7664417",
+    "phase_change_data": {},
+    "thermodynamic_data": [
+      {
+        "temperature": 203.8591,
+        "heat_capacity": 223.8022,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1998.0,
+        "heat_capacity": 1998.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1977.0,
+        "heat_capacity": 1977.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      }
+    ]
+  },
+  "ammonia": {
+    "formula": "ammonia",
+    "compound_id": "C84796145",
+    "phase_change_data": {},
+    "thermodynamic_data": [
+      {
+        "temperature": 69.82385,
+        "heat_capacity": 12.0177,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 207.3716,
+        "heat_capacity": 247.8782,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1998.0,
+        "heat_capacity": 1998.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1977.0,
+        "heat_capacity": 1977.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      }
+    ]
+  },
+  "N2": {
+    "formula": "N2",
+    "compound_id": "C7727379",
+    "phase_change_data": {},
+    "thermodynamic_data": [
+      {
+        "temperature": 226.4168,
+        "heat_capacity": 212.39,
+        "entropy": 224.981,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1998.0,
+        "heat_capacity": 1998.0,
+        "entropy": 1998.0,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1977.0,
+        "heat_capacity": 1977.0,
+        "entropy": 1977.0,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      }
+    ]
+  },
+  "nitrogen": {
+    "formula": "nitrogen",
+    "compound_id": "C7727379",
+    "phase_change_data": {},
+    "thermodynamic_data": [
+      {
+        "temperature": 226.4168,
+        "heat_capacity": 212.39,
+        "entropy": 224.981,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1998.0,
+        "heat_capacity": 1998.0,
+        "entropy": 1998.0,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1977.0,
+        "heat_capacity": 1977.0,
+        "entropy": 1977.0,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      }
+    ]
+  },
+  "O2": {
+    "formula": "O2",
+    "compound_id": "C7782447",
+    "phase_change_data": {},
+    "thermodynamic_data": [
+      {
+        "temperature": 246.7945,
+        "heat_capacity": 236.1663,
+        "entropy": 237.6185,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1998.0,
+        "heat_capacity": 1998.0,
+        "entropy": 1998.0,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1977.0,
+        "heat_capacity": 1977.0,
+        "entropy": 1977.0,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      }
+    ]
+  },
+  "oxygen": {
+    "formula": "oxygen",
+    "compound_id": "C7782447",
+    "phase_change_data": {},
+    "thermodynamic_data": [
+      {
+        "temperature": 246.7945,
+        "heat_capacity": 236.1663,
+        "entropy": 237.6185,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1998.0,
+        "heat_capacity": 1998.0,
+        "entropy": 1998.0,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1977.0,
+        "heat_capacity": 1977.0,
+        "entropy": 1977.0,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      }
+    ]
+  },
+  "H2": {
+    "formula": "H2",
+    "compound_id": "C1333740",
+    "phase_change_data": {},
+    "thermodynamic_data": [
+      {
+        "temperature": 172.707974,
+        "heat_capacity": 156.288133,
+        "entropy": 162.081354,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1998.0,
+        "heat_capacity": 1998.0,
+        "entropy": 1998.0,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1977.0,
+        "heat_capacity": 1977.0,
+        "entropy": 1977.0,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      }
+    ]
+  },
+  "CO": {
+    "formula": "CO",
+    "compound_id": "C630080",
+    "phase_change_data": {},
+    "thermodynamic_data": [
+      {
+        "temperature": 227.3665,
+        "heat_capacity": 231.712,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1998.0,
+        "heat_capacity": 1998.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1965.0,
+        "heat_capacity": 1965.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      }
+    ]
+  },
+  "carbon monoxide": {
+    "formula": "carbon monoxide",
+    "compound_id": "C630080",
+    "phase_change_data": {},
+    "thermodynamic_data": [
+      {
+        "temperature": 227.3665,
+        "heat_capacity": 231.712,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1998.0,
+        "heat_capacity": 1998.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1965.0,
+        "heat_capacity": 1965.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      }
+    ]
+  },
+  "C2H4": {
+    "formula": "C2H4",
+    "compound_id": "C74851",
+    "phase_change_data": {},
+    "thermodynamic_data": [
+      {
+        "temperature": 184.4019,
+        "heat_capacity": 13.7326,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 163.1568,
+        "heat_capacity": 275.0424,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 52.46694,
+        "heat_capacity": 52.46694,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1998.0,
+        "heat_capacity": 1998.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      },
+      {
+        "temperature": 1965.0,
+        "heat_capacity": 1965.0,
+        "entropy": null,
+        "enthalpy_minus_h298": null,
+        "gibbs_free_energy": null
+      }
+    ]
+  }
+}
